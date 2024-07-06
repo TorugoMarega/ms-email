@@ -4,8 +4,7 @@ target/
 !**/src/main/**/target/
 !**/src/test/**/target/
 
-### Config Infra Files ####
-/src/main/resources/application-dsv.properties
+
 
 ### STS ###
 .apt_generated
